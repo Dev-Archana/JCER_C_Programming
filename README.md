@@ -17,6 +17,6 @@
   <a href="Mod_Opration_RunTime_Values.c"><li>Program for mod_operation demonstration using runtime values.</li></a>
   <a href="Area_Of_Square.c"><li>Program to find the area of the square for a given side value.</li></a>
   <a href="Area_Of_Reactangle.c"><li>Program to find the area of the rectangle for a given length and breadth.</li></a>
-<!--   <a href=""><li></li></a>
-  <a href=""><li></li></a> -->
+<a href="FunctionsInC.c"><li>Write a program to read and print array elements using function</li></a>
+<!--   <a href=""><li></li></a> -->
 </ol>
