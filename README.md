@@ -20,7 +20,7 @@
 <a href="FunctionsInC.c"><li>Write a program to read and print array elements using function</li></a>
   <a href="ATM.c"><li>Write a program to demonstrate ATM operations</li></a>
   <a href="PrintPrime.c"><li>Print Prime numbers in a given range</li></a>
-<!--   <a href=""><li></li></a> -->
+  <a href="PrimeOrNot.c"><li>Check whether the given number is even or not</li></a>
 <!--   <a href=""><li></li></a> -->
 <!--   <a href=""><li></li></a> -->
 </ol>
