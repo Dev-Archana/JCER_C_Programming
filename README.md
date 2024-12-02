@@ -23,5 +23,6 @@
   <a href="PrimeOrNot.c"><li>Check whether the given number is even or not</li></a>
   <a href="SumOfTwoUsingFunction.c"><li>Write a porgram to print sum of two numbers using parameterized function</li></a>
  <a href="concatenate.c"><li> Program to concatenate two arrays into a third array</li></a> 
+  <a href="BinarySearch.c"><li>Binary Search Algorithm – Iterative </li></a>
 <!--   <a href=""><li></li></a> -->
 </ol>
