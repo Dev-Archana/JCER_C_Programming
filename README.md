@@ -24,5 +24,8 @@
   <a href="SumOfTwoUsingFunction.c"><li>Write a porgram to print sum of two numbers using parameterized function</li></a>
  <a href="concatenate.c"><li> Program to concatenate two arrays into a third array</li></a> 
   <a href="BinarySearch.c"><li>Binary Search Algorithm – Iterative </li></a>
+  <a href="Pattern_In_Single_Line.c"><li>X Pattern Using Single Printf Statement</li></a>
+<!--   <a href=""><li></li></a> -->
+<!--   <a href=""><li></li></a> -->
 <!--   <a href=""><li></li></a> -->
 </ol>
